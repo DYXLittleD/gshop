@@ -11,7 +11,7 @@ export default {
   components: {
     FooterGuide
   },
-  name: 'App'
+  name: 'App',
 }
 </script>
 
